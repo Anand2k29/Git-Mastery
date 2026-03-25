@@ -2,8 +2,6 @@
 
 Welcome to the complete, workflow-based guide to mastering Git and version control. This repository is designed as a quick-reference cheat sheet and interactive revision tool for developers moving from basic saves to advanced history management.
 
-
-
 ## 🗺️ The Master Map
 
 ### 1. SETUP & CLONING (Two ways to start)
@@ -43,9 +41,17 @@ Welcome to the complete, workflow-based guide to mastering Git and version contr
 
 ---
 
-## 🐍 Interactive Python Revision Tool
-Forget scrolling through documentation. This repo includes a custom Python CLI tool to help you find the right command instantly or test your knowledge!
+## 🐍 Interactive Python Revision Tools
+Forget scrolling through documentation. This repo includes custom Python CLI tools to help you find the right command instantly or test your knowledge!
 
+### 1. The Git Guide (Cheat Sheet & Revision)
+An interactive terminal menu that helps you find the exact workflow commands you need.
 **How to run it:**
 1. Open your terminal in this folder.
 2. Run: `python git_guide.py`
+
+### 2. Git Survival Mode (The Game)
+Test your skills under pressure! Production is on fire. Can you type the correct Git commands to save the project and earn the rank of Git Master?
+**How to run it:**
+1. Open your terminal in this folder.
+2. Run: `python git_survival_game.py`
